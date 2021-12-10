@@ -1,5 +1,4 @@
 from webdriver_helpers import *
-sys.path.append("/Automation Assignments/today")
 from credentials import *
 
 driver = webdriver.Chrome()
